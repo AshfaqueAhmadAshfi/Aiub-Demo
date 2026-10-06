@@ -1,1 +1,3 @@
 # Aiub-Demo
+
+SHA256:24+DmjidVX9lmLi5zNTODzo1JLcWP+bQ4EcDepVotXU student@DESKTOP-MPUH97H
